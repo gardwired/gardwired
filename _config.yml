@@ -1,8 +1,7 @@
 
 title: gardwired
 email: greg@gardwired.com
-description: > # this means to ignore newlines until "baseurl:"
-  working clean code daily...
+description: ""
 baseurl: "" # https://gitlab.com/pages/jekyll/issues/4 
 url: "https://gardwired.gitlab.com"
 twitter_username: gardwired
