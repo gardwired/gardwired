@@ -3,8 +3,9 @@ title: gardwired
 email: greg@gardwired.com
 description: > # this means to ignore newlines until "baseurl:"
   
-baseurl: "/"
-url: "https://gardwired.gitlab.com" # the base hostname & protocol for your site
+# https://gitlab.com/pages/jekyll/issues/4
+baseurl: ""
+url: "https://gardwired.gitlab.com"
 twitter_username: gardwired
 github_username:  gardwired
 
