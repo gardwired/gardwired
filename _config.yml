@@ -4,7 +4,7 @@ email: greg@gardwired.com
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "/"
-url: "/" # the base hostname & protocol for your site
+url: "https://gardwired.gitlab.com" # the base hostname & protocol for your site
 twitter_username: gardwired
 github_username:  gardwired
 
