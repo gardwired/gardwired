@@ -11,5 +11,6 @@ linkedin_url: https://linkedin.com/in/gardwired
 markdown: kramdown
 exclude: ["README.md"]
 
-plugins:
+# https://github.com/jekyll/jekyll-redirect-from
+gems:
   - jekyll-redirect-from
