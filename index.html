@@ -1,7 +1,12 @@
 ---
 layout: default
-redirect_from: https://www.gardwired.com/
 ---
+<script>
+if ( document.domain.substring(0,4) == 'www.' ) {
+    window.location = document.URL.replace(/^www\./, ""); 
+}
+</script>
+
 
 <div class="home">
   <h1 class="page-heading">Portfolio</h1>
