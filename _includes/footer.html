@@ -6,6 +6,7 @@
         <ul class="contact-list">
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           <li><a href="{{ site.linkedin_url }}">linkedin</a></li>
+          
         </ul>
       </div>
 
@@ -27,6 +28,7 @@
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
+        <p><a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe: rss</a></p>
       </div>
     </div>
 
